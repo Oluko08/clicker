@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 103d13fbd7e04b04393469fff4b36e0b, type: 3}
+  m_Name: "\uCE60\uAC00\uC774"
+  m_EditorClassIdentifier: Assembly-CSharp::TrendItemData
+  itemName: "\uCE60\uAC00\uC774"
+  price: 777
+  clickPowerAdd: 0
+  perSecondAdd: 70
+  itemIcon: {fileID: -7673803435599093131, guid: 818e78f2279d73b4f99807d39ab75aa5, type: 3}
+  characterSprite1: {fileID: -7673803435599093131, guid: 818e78f2279d73b4f99807d39ab75aa5, type: 3}
+  characterSprite2: {fileID: -7673803435599093131, guid: 818e78f2279d73b4f99807d39ab75aa5, type: 3}
+  animationInterval: 0.5
+  animationPrefab: {fileID: 0}

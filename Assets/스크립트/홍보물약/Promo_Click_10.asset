@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6635e969f004c384bbaf5a8cb02a2e37, type: 3}
+  m_Name: Promo_Click_10
+  m_EditorClassIdentifier: Assembly-CSharp::PromotionData
+  promotionName: "\uB108\uD29C\uBE0C \uD64D\uBCF4"
+  multiplier: 10
+  duration: 30
+  type: 0
+  borderSprite1: {fileID: 124326700226287683, guid: fe86216f749ba2d49877d1dcd03f4be9, type: 3}
+  borderSprite2: {fileID: 124326700226287683, guid: fe86216f749ba2d49877d1dcd03f4be9, type: 3}
+  animSpeed: 0.1
